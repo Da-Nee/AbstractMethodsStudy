@@ -1,0 +1,15 @@
+C:\temp\projetos\AbstractMethodsExec\AbstractMethodsExec\bin\Debug\net7.0\AbstractMethodsExec.exe
+C:\temp\projetos\AbstractMethodsExec\AbstractMethodsExec\bin\Debug\net7.0\AbstractMethodsExec.deps.json
+C:\temp\projetos\AbstractMethodsExec\AbstractMethodsExec\bin\Debug\net7.0\AbstractMethodsExec.runtimeconfig.json
+C:\temp\projetos\AbstractMethodsExec\AbstractMethodsExec\bin\Debug\net7.0\AbstractMethodsExec.dll
+C:\temp\projetos\AbstractMethodsExec\AbstractMethodsExec\bin\Debug\net7.0\AbstractMethodsExec.pdb
+C:\temp\projetos\AbstractMethodsExec\AbstractMethodsExec\obj\Debug\net7.0\AbstractMethodsExec.csproj.AssemblyReference.cache
+C:\temp\projetos\AbstractMethodsExec\AbstractMethodsExec\obj\Debug\net7.0\AbstractMethodsExec.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\AbstractMethodsExec\AbstractMethodsExec\obj\Debug\net7.0\AbstractMethodsExec.AssemblyInfoInputs.cache
+C:\temp\projetos\AbstractMethodsExec\AbstractMethodsExec\obj\Debug\net7.0\AbstractMethodsExec.AssemblyInfo.cs
+C:\temp\projetos\AbstractMethodsExec\AbstractMethodsExec\obj\Debug\net7.0\AbstractMethodsExec.csproj.CoreCompileInputs.cache
+C:\temp\projetos\AbstractMethodsExec\AbstractMethodsExec\obj\Debug\net7.0\AbstractMethodsExec.dll
+C:\temp\projetos\AbstractMethodsExec\AbstractMethodsExec\obj\Debug\net7.0\refint\AbstractMethodsExec.dll
+C:\temp\projetos\AbstractMethodsExec\AbstractMethodsExec\obj\Debug\net7.0\AbstractMethodsExec.pdb
+C:\temp\projetos\AbstractMethodsExec\AbstractMethodsExec\obj\Debug\net7.0\AbstractMethodsExec.genruntimeconfig.cache
+C:\temp\projetos\AbstractMethodsExec\AbstractMethodsExec\obj\Debug\net7.0\ref\AbstractMethodsExec.dll
